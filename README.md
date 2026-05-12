@@ -1,4 +1,4 @@
-    # onchain-subscription
+### onchain-subscription
 
 An ETH-based on-chain subscription smart contract built with Solidity 0.8.20 and Hardhat. Users pay ETH to subscribe for a fixed period, subscriptions stack on renewal, and cancellation issues a pro-rata refund.
 
